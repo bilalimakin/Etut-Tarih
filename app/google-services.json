@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414707590694",
+    "project_id": "etut-tds",
+    "storage_bucket": "etut-tds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414707590694:android:b09d925298c509eb24a8e7",
+        "android_client_info": {
+          "package_name": "com.baakademy.etttds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCppxvN-4Z4-3K6SS1dQdxtvXfWu7MsqwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
